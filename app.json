@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "focus-app",
+    "slug": "focus-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.aizen.focusapp"
+    }
+  }
+}
